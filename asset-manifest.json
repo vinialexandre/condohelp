@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/condohelp/static/css/main.79ebbcfe.chunk.css",
+    "main.js": "/condohelp/static/js/main.f33324e4.chunk.js",
+    "main.js.map": "/condohelp/static/js/main.f33324e4.chunk.js.map",
+    "runtime-main.js": "/condohelp/static/js/runtime-main.e0ea3463.js",
+    "runtime-main.js.map": "/condohelp/static/js/runtime-main.e0ea3463.js.map",
+    "static/css/2.a08119d7.chunk.css": "/condohelp/static/css/2.a08119d7.chunk.css",
+    "static/js/2.b64ac4cc.chunk.js": "/condohelp/static/js/2.b64ac4cc.chunk.js",
+    "static/js/2.b64ac4cc.chunk.js.map": "/condohelp/static/js/2.b64ac4cc.chunk.js.map",
+    "index.html": "/condohelp/index.html",
+    "static/css/2.a08119d7.chunk.css.map": "/condohelp/static/css/2.a08119d7.chunk.css.map",
+    "static/css/main.79ebbcfe.chunk.css.map": "/condohelp/static/css/main.79ebbcfe.chunk.css.map",
+    "static/js/2.b64ac4cc.chunk.js.LICENSE.txt": "/condohelp/static/js/2.b64ac4cc.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/condohelp/static/media/cover.6a293bc8.png",
+    "static/media/logo.1c649f13.png": "/condohelp/static/media/logo.1c649f13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0ea3463.js",
+    "static/css/2.a08119d7.chunk.css",
+    "static/js/2.b64ac4cc.chunk.js",
+    "static/css/main.79ebbcfe.chunk.css",
+    "static/js/main.f33324e4.chunk.js"
+  ]
+}
